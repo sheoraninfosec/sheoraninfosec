@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Phishing_Detection-extension<br>🌱 I’m currently learning Hydra-gui, LaTeX<br>🤝 I’m looking for help with Phishing-page-generator-project<br>💬 Ask me about HacktheBox, PasswordCracking<br>📫 How to reach me jigeshsheoran2002@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/jigesh-sheoran/<br>⚡ Fun fact Phishing Emails are More Common Than You Know<br>
+🔭 I’m currently working on Password Strength Testing Toolkit<br>🌱 I’m currently learning John the Ripper<br>🤝 I’m looking for help with Password Strength Testing Project<br>💬 Ask me about HacktheBox, PasswordCracking<br>📫 How to reach me jigeshsheoran2002@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/jigesh-sheoran/<br>⚡ Fun fact Password Leaks are more common than you know.<br>
 
 
 ## 🌐 Socials:
