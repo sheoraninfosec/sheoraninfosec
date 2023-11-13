@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Password Strength Testing Toolkit<br>🌱 I’m currently learning John the Ripper & Nessus <br>🤝 I’m looking for help with Password Strength Testing Project<br>💬 Ask me about HacktheBox, PasswordCracking<br>💬ZERO DAY ATTACKS<br>📫 Reach me at jigeshsheoran2002@gmail.com<br>⚡ Fun fact Password Leaks are more common than you know.<br><br>Anyone who has a good knowledge of VAPT and OWASP Top 10 can contact me to joint the bug-bounty-team.<br>
+🔭 Working on Password Strength Testing Toolkit<br>🌱 I’m currently learning John the Ripper & Nessus <br>🤝 I’m looking for help with Password Strength Testing Project<br>💬 Ask me about HacktheBox, PasswordCracking<br>💬ZERO DAY ATTACKS<br>📫 Reach me at jigeshsheoran2002@gmail.com<br>⚡ Fun fact Password Leaks are more common than you know.<br><br>Anyone who has a good knowledge of VAPT and OWASP Top 10 can contact me to joint our bug-bounty-team.<br>
 
 
 ## 🌐 Socials:
